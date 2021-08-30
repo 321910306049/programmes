@@ -2,6 +2,7 @@
 
 ![Alt text](https://tse3.mm.bing.net/th?id=OIP.kqwse5Zsoh7oElvckNrzsQHaEK&pid=Api&P=0&w=293&h=166 "a title")
 
+
 ## 1 NumPy
 You can do basic mathematical operations without any special Python packages. However, if you’re going to do any kind of complex math, the NumPy package will make your coding life much easier.
 
@@ -18,8 +19,7 @@ While datetime is great for basic work along these lines, the Pendulum Python pa
 
 Best of all, Pendulum is designed to be a drop-in replacement for datetime. That means you can use it with code you’ve already written based on datetime. With only a few exceptions, Pendulum will work just as well, without the need to modify the code, while providing extra features not present in plain-old datetime.
 
-
-## 
+ 
 
 ## 3 Python Imaging Library
 If your Python application interacts with images in any way, the Python imaging library, also known as PIL or Pillow, is a Python must-have. It makes it easy to write code that opens, modifies, and saves images in a variety of formats.
@@ -33,6 +33,7 @@ MoviePy is to videos what Pillow is to images. It provides a range of functional
 
 Like Pillow, MoviePy is not intended as a tool for advanced data manipulation. If you’re writing a video editing app, you’ll probably also need to rely on OpenCV (which can work with videos as well as images) to provide the advanced functionality that MoviePy lacks. But for most standard tasks involving videos in Python code, MoviePy gets the job done quite well.
 
+ 
 
 ## 5 Requests
 Writing code that sends HTTP requests can be tricky, due in no small part to the fact that HTTP does not exactly format data in a way that is easy for humans to read.
@@ -45,14 +46,14 @@ In short, if your application sends any data over HTTP, Requests is a must-have 
 
 ## 6 Tkinter
 Want to develop a Python app with a Graphical User Interface (GUI)? There are a variety of packages designed to help you do that (indeed, we could make a top ten list of just Python GUI packages). But I think most Python developers would agree that Tkinter is the most important — and most commonly used — framework for creating GUIs. It binds Python to the TK GUI toolkit, which works on virtually every modern operating system.
-
 Unless you have a strong preference for a different GUI toolkit, Tkinter is probably the best place to start when creating a Python GUI.
 
+ 
 
 ## 7 PyQt
 The preceding sentence notwithstanding, PyQT, another Python package for building GUIs, is also a strong contender. It provides bindings to (you guessed it) the Qt toolkit, which is also cross-platform. It’s intended for heavier-duty GUI programming than Tkinter. That means that PyQT may be overkill if you’re building an app that has a pretty simple interface — say, just a window with some buttons and text fields — but it is a good tool if you want to build a complex, multi-dimensional GUI.
 
- 
+
 
 ## 8 Pandas
 There is a long list of Python packages designed for working with complex data sets. But arguably, Pandas is the most important. Pandas helps you manipulate and analyze large sets of data without having to learn a specialized data-processing language like R.
@@ -70,6 +71,3 @@ Pywin32 won’t do you much good if you’re building a cross-platform Python ap
 
 ## 10 Pytest
 If you have a Python development project of any complexity, being able to perform testing on new code is essential. The Pytest package provides a variety of modules to help you do this. Whether it’s a simple unit test or a more complex functional test, Pytest can help you write it.
-
-
- 
