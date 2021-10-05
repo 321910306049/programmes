@@ -1,7 +1,7 @@
 # packages
 
-![Alt text](https://tse3.mm.bing.net/th?id=OIP.kqwse5Zsoh7oElvckNrzsQHaEK&pid=Api&P=0&w=293&h=166 "a title")
 
+![Alt text](https://tse3.mm.bing.net/th?id=OIP.kqwse5Zsoh7oElvckNrzsQHaEK&pid=Api&P=0&w=293&h=166 "a title")
 ## 1 NumPy
 You can do basic mathematical operations without any special Python packages. However, if you’re going to do any kind of complex math, the NumPy package will make your coding life much easier.
 
